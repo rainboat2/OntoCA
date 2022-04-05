@@ -43,6 +43,7 @@ WHERE
 
 ## Query4
 
+```SPARQL
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX ub: <tju:#>
 SELECT ?X ?Y ?Z ?A
@@ -52,6 +53,7 @@ WHERE
 	?Y ub:subOrganizationOf ?Z .
 	?A ub:advisor ?X .
 }
+```
 
 ## Query5
 

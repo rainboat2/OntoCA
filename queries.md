@@ -8,7 +8,7 @@ PREFIX ub: <tju:#>
 SELECT ?X ?Y
 WHERE
 {
-    ?X rdf:type ub:GraduateStudent .
+    ?X rdf:type ub:Student .
     ?X ub:takesCourse ?Y .
 }
 ```

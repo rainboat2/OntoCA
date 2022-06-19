@@ -166,10 +166,10 @@ PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX dbo: <http://dbpedia.org/ontology/>
 PREFIX fo: <http://xmlns.com/foaf/0.1/>
 SELECT * WHERE {
-?X fo:name ?Y1 .
-?X dbo:number ?Y2 .
-?X dbo:birthDate ?Y3 .
-?X dbo:team ?Y4.
+    ?X fo:name ?Y1 .
+    ?X dbo:number ?Y2 .
+    ?X dbo:birthDate ?Y3 .
+    ?X dbo:team ?Y4.
 }
 ```
 

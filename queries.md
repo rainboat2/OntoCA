@@ -1,7 +1,7 @@
 # Queries
 
 ## LUBM
-### Query1
+### Q1
 
 ```SPARQL
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
@@ -12,7 +12,7 @@ SELECT * WHERE {
 }
 ```
 
-### Query2
+### Q2
 
 ```SPARQL
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
@@ -25,7 +25,7 @@ SELECT * WHERE {
 }
 ```
 
-### Query3
+### Q3
 
 ```SPARQL
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
@@ -36,7 +36,7 @@ SELECT * WHERE {
 }
 ```
 
-### Query4
+### Q4
 
 ```SPARQL
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
@@ -48,7 +48,7 @@ SELECT * WHERE {
 }
 ```
 
-### Query5
+### Q5
 
 ```SPARQL
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
@@ -60,7 +60,7 @@ SELECT * WHERE {
 }
 ```
 
-### Query6
+### Q6
 
 ```SPARQL
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
@@ -73,7 +73,7 @@ SELECT * WHERE {
 }
 ```
 
-### Query7
+### Q7
 
 ```SPARQL
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
@@ -84,7 +84,7 @@ SELECT * WHERE {
 }
 ```
 
-### Query8
+### Q8
 
 ```SPARQL
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>

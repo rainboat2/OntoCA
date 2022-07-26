@@ -1,2 +1,2 @@
 # OntoCA
-OntoCA benchmark queries on lubm
+OntoCA benchmark queries on lubm and dbpedia
